@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Indomie",
+        "id": 1
+    },
+    {
+        "name": "Mie Sedaap",
+        "id": 2
+    },
+    {
+        "name": "Mie Gaga",
+        "id": 3
+    },
+    {
+        "name": "Sarimi",
+        "id": 4
+    },
+    {
+        "name": "Supermi",
+        "id": 5
+    },
+    {
+        "name": "Samyang",
+        "id": 6
+    },
+    {
+        "name": "Ramen",
+        "id": 7
+    },
+    {
+        "name": "Pop Mie",
+        "id": 8
+    },
+    {
+        "name": "Mie Sakura",
+        "id": 9
+    }
+]
